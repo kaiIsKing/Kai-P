@@ -1,0 +1,23 @@
+
+.color-primary{
+color:blue;
+font-size: 40px;
+}
+.font-50{
+font-size: 50px;
+}
+.tb>thead>tr> td {
+    border: 1px solid red;
+    background-color: brown;
+}
+
+p{
+    color:blue;
+    font-size: 10px;
+    }
+
+
+    #p1{
+        color:yellow;
+        font-size: 90px;
+        }
